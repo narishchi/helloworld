@@ -1,0 +1,6 @@
+# Hellowrd
+my name is naritsara matsud, id 673450037-2
+
+...
+console.Write("Hello World");
+...
